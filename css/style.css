@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-  background: url(../images/back.PNG) no-repeat right center/800px;
+  background: url(../images/back.png) no-repeat right center/800px;
   background-color: #ffffe0;
 }
 .logo {
