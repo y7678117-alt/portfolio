@@ -6,7 +6,7 @@ body {
 }
 .logo {
   width: 200px;
-  height: auto;
+  height: auto; /* ← CSSで書けばOK */
 }
 header {
   margin-bottom: 70px;
